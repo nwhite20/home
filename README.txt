@@ -1,4 +1,4 @@
-Sample selection of coursework/other programming work
+Sample selections of code
 
 - Nate White
 
